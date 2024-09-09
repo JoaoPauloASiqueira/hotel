@@ -1,0 +1,247 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+.topo1 {
+    display: flex;
+    h2{
+        padding-right: 800px;
+        padding-left: 150px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    a{
+        color: #000;
+      padding-top: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+}
+.topo2 {
+    background-image: url('img-fundo.jpg');
+    text-align: center;
+    padding: 80px; 
+}
+
+.topo3{
+    a{
+        text-decoration: none;
+    }
+    h1{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 50px;
+color: gray;}
+    p{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: gray;
+    }
+}
+
+.top3 {
+
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+    
+    h1{
+    font-size: 28px;
+    margin-bottom: 10px;
+    }
+    p{
+    font-size: 16px;
+    margin-bottom: 20px;
+    }
+}
+
+.top3a {
+    display: block;
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+    
+ 
+    
+}
+img {
+    display: flex;
+    padding-left: 130px;
+    padding-top: 50px;
+    width: 300px;
+    
+    
+    
+}
+
+.fim1 {
+    text-align: center;
+    margin-bottom: 30px; 
+  }
+  
+  .fim1 h2 {
+    font-weight: bold;
+  }
+  
+  .fim1 .features {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
+  
+  .fim1 .features li {
+    margin: 0 20px;
+  }
+  
+
+
+.topo4{
+    a{
+        text-decoration: none;
+    }
+    h1{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 50px;
+color: gray;}
+    p{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: gray;
+    }
+}
+
+.top4 {
+
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+    
+    h1{
+    font-size: 28px;
+    margin-bottom: 10px;
+    }
+    p{
+    font-size: 16px;
+    margin-bottom: 20px;
+    }
+}
+
+.top4a {
+    display: block;
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+    
+ 
+    
+}
+img {
+    display: flex;
+    padding-left: 130px;
+    padding-top: 50px;
+    width: 300px;
+    
+    
+    
+}
+
+
+
+.topo5{
+    a{
+        text-decoration: none;
+    }
+    h1{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 50px;
+color: gray;}
+    p{text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: gray;
+    }
+}
+
+.top5 {
+
+    text-align: center;
+    padding: 40px 20px;
+    background-color: white;
+    
+    h1{
+    font-size: 28px;
+    margin-bottom: 10px;
+    }
+    p{
+    font-size: 16px;
+    margin-bottom: 20px;
+    }
+}
+
+.top5a {
+    display: block;
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    text-align: center;
+    width: 30%;
+    
+ 
+    
+}
+img {
+    display: flex;
+    padding-left: 130px;
+    padding-top: 50px;
+    width: 300px;
+    
+    
+    
+}
+
+
+  
+
+
+
+
+.topo7 {
+    padding-top: 50px;
+    display: flex;
+    align-items: center; 
+    padding: 10px 0; 
+    background-color: rgb(71, 155, 127);
+    justify-content: space-between; 
+
+    h2 {
+        color: white;
+        padding-left: 20px; 
+        margin: 0; 
+    }
+    
+    h3 {
+        color: white;
+        margin: 0; 
+    }
+    
+    img {
+        width: 35px;
+        padding-left: 150px; 
+    }
+}
+
+.topo8 {
+    background-color: rgb(71, 155, 127);
+    padding: 10px 0; 
+    
+    h3 {
+        padding: 0; 
+        text-align: center;
+        color: white;
+        margin: 0; 
+    }
+}
+   

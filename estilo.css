@@ -1,0 +1,199 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.topo1 {
+    display: flex;
+    h2{
+        padding-right: 800px;
+        padding-left: 150px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    a{
+        color: #000;
+      padding-top: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+}
+
+.topo2 {
+    background-image: url('img-fundo.jpg');
+    text-align: center;
+    padding: 300px; 
+}
+
+.box {
+    display: inline-block; 
+    background-color: rgba(37, 131, 108, 0.555); 
+   
+    border-radius: 10px; 
+    padding: 50px; 
+
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 60px;
+    margin: 0; 
+    padding-bottom: 35px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    margin: 0; 
+}
+}
+    
+       
+    .topo3{
+        a{
+            text-decoration: none;
+        }
+        h1{text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        padding-top: 50px;}
+        p{text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            
+        }
+    }
+
+    .top3 {
+
+        text-align: center;
+        padding: 40px 20px;
+        background-color: white;
+        
+        h1{
+        font-size: 28px;
+        margin-bottom: 10px;
+        }
+        p{
+        font-size: 16px;
+        margin-bottom: 20px;
+        }
+    }
+    
+    .top3a {
+        display: block;
+        text-align: center;
+        display: flex;
+        margin: 10px;
+        text-align: center;
+        width: 30%;
+        
+        a{
+            margin-left: 110px;
+        border-bottom: #084561 solid 5px;
+        margin-top: 10px;
+        font-size: 18px;
+        text-decoration: none;
+        color: #000;
+        
+    }
+    img {
+        display: flex;
+        padding-left: 120px;
+        padding-top: 50px;
+        width: 300px;
+        
+        
+        
+    }
+    }
+  
+    
+   
+
+    
+  .topo4{
+    text-align: center;
+        h1{padding-top: 50px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+            p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            padding-bottom: 50px;}
+  }
+    
+    .topo5{
+        
+        h1{padding-top: 50px;
+            text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        padding-bottom: 15px;}
+            p{
+                text-align: center;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                padding-bottom: 50px;
+            }
+        
+    }
+.topo6{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px; 
+      }
+      
+      .container > div {
+        display: flex;
+        align-items: center;
+        width: calc(50% - 20px); 
+        box-sizing: border-box;
+      }
+      p{
+        color: gray;
+        font-size: 20px;
+      }
+      img {
+        padding-left: 30px;
+        width: 130px;
+        margin-right: 20px; 
+      }
+      
+      .text {
+        max-width: calc(100% - 150px - 20px); 
+      }
+      
+      .topo7 {
+        padding-top: 50px;
+        display: flex;
+        align-items: center; 
+        padding: 10px 0; 
+        background-color: rgb(71, 155, 127);
+        justify-content: space-between; 
+    
+        h2 {
+            color: white;
+            padding-left: 20px; 
+            margin: 0; 
+        }
+        
+        h3 {
+            color: white;
+            margin: 0; 
+        }
+        
+        img {
+            width: 35px;
+            padding-left: 150px; 
+        }
+    }
+    
+    .topo8 {
+        background-color: rgb(71, 155, 127);
+        padding: 10px 0; 
+        
+        h3 {
+            padding: 0; 
+            text-align: center;
+            color: white;
+            margin: 0; 
+        }
+    }
+    
